@@ -1,0 +1,37 @@
+Home Page
+-navbar	-> grafik info
+	-> hubungi kami
+	-> about
+	-> Login
+-Login
+-Grafik informasi
+-Hubungi kami
+-About
+
+Login Page
+-Username 
+-Password
+-Home
+
+Admin	->mengelola data user
+	->mengelola data pasien
+	->mengelola data perawat 
+	->mengelola penjadwalan
+	->mengelola data master 
+		-> SOAP
+	->mengelola data asuhan keperawatan
+
+Perawat	->mengelola asuhan keperawatan(RU)	
+				->report asuhan harian individu
+				
+menu Kepala Ruangan	->mengelola data perawat(CRUD)
+	->mengelola data pasien (CRUD)
+	->mengelola penjadwalan (CRUD)
+	->mengelola asuhan keperawatan (CRUD)
+	->Report Bundle asuhan keperawatan
+
+menu Ketua Tim	->mengelola asuhan keperawatan (CRUD)
+	->mengelola data perawat (R)
+	->mengelola data pasien (R)
+	->Report Bundle asuhan keperawatan		
+
